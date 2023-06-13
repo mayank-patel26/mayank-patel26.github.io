@@ -471,9 +471,10 @@ a:hover, a:active {
 .progress {
     margin-top: 5px;
     height: 2rem;
-    border: 2px solid #fff;
-    background-color: #fff;
+    /* border: 2px solid #fff; */
+    background-color: rgb(200,200,200,0.25);
     box-shadow: 0 0 0 2px #747474;
+    backdrop-filter: blur(10px);
 }
 
 .progress,
