@@ -1,2 +1,3 @@
 # mayank-patel26.github.io
-Profile
+
+A fluid and simple experience to view my professional career and portfolio. Hosted online for easy and heterogeneous access.
